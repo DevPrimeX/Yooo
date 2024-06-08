@@ -1,12 +1,3 @@
-requests
-cloudscraper
-bs4 
+python
 python-dotenv
 pyrogram
-tgcrypto
-lxml
-cfscrape
-urllib3==1.26
-flask
-gunicorn
-curl-cffi
