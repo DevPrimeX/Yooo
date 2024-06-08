@@ -1,1 +1,1 @@
-worker: python3 terabox.py
+worker: python terabox.py
