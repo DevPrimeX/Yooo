@@ -15,7 +15,7 @@ aria2 = aria2p.API(
     )
 )
 async def download_video(url, reply_msg, user_mention, user_id):
-    response = requests.get(f"https://terabox-downloader-direct-download-link-generator.p.rapidapi.com/?url={url}")
+    response = requests.get(f"https://bot-nine-rho.vercel.app/?url={url}")
     response.raise_for_status()
     data = response.json()
 
