@@ -1,4 +1,13 @@
-python==3.12.4
+requests
+cloudscraper
+bs4 
 python-dotenv
 pyrogram
+tgcrypto
+lxml
+cfscrape
+urllib3==1.26
+flask
+gunicorn
+curl-cffi
 
