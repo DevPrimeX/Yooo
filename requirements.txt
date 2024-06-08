@@ -1,4 +1,4 @@
 python==3.12.4
 python-dotenv
 pyrogram
-get+ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+
